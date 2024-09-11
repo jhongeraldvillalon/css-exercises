@@ -1,0 +1,20 @@
+p {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    background-color: rgb(206, 98, 98);
+}
+
+#number-two {
+    color: blue;
+    font-size: 36px;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+
+#number-four {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
